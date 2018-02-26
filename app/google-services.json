@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "26284927161",
+    "firebase_url": "https://firecast-app-a12a8.firebaseio.com",
+    "project_id": "firecast-app-a12a8",
+    "storage_bucket": "firecast-app-a12a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26284927161:android:5cf2e8f899c8110c",
+        "android_client_info": {
+          "package_name": "com.example.danilo.cloudcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26284927161-ntbugdens51rubpjmhnfhkm80pnvjtln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danilo.cloudcamera",
+            "certificate_hash": "5549fe27806e78d72b09d8e6f55b034766e35d6c"
+          }
+        },
+        {
+          "client_id": "26284927161-c0faol93ihufdsucpga9gcvfig268aol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGct8OyzywGtPW09ez716ggaXHWzT-9lY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26284927161-c0faol93ihufdsucpga9gcvfig268aol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
